@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.mrunit:mrunit:hadoop100:0.8.1-incubating">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/mrunit/mrunit/0.8.1-incubating/mrunit-0.8.1-incubating-hadoop100.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/mrunit/mrunit/0.8.1-incubating/mrunit-0.8.1-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/mrunit/mrunit/0.8.1-incubating/mrunit-0.8.1-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
